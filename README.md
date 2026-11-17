@@ -17,7 +17,7 @@
 
 > **A curated, comprehensive catalog of enterprise-grade SaaS and cutting-edge Open-Source Low-Code Scripting Languages, embeddable execution runtimes, workflow automation engines, and sandboxed developer VMs for extending applications without full rebuilds.**
 
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Low-Code-Scripting-Language-Runtime?style=social)](https://github.com/ishandutta2007/Awesome-Low-Code-Scripting-Language-Runtime/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Low-Code-Scripting-Language-Runtime?style=social)](https://github.com/ishandutta2007/Awesome-Low-Code-Scripting-Language-Runtime/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Low-Code-Scripting-Language-Runtime?style=social)](https://github.com/ishandutta2007/Awesome-Low-Code-Scripting-Language-Runtime/network/members)
 
 </div>
@@ -159,13 +159,13 @@ Enterprise-grade, cloud-hosted Low-Code Scripting Language and Runtime platforms
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Low-Code Scripting Languages, polyglot execution engines, and embeddable runtime VMs. The table below is sorted by **GitHub Star Count (descending)** with direct links to each project's stargazers page.
+Self-hosted, community-driven Low-Code Scripting Languages, polyglot execution engines, and embeddable runtime VMs. The table below is sorted by **GitHub Stars_Count (descending)** with direct links to each project's stargazers page.
 
 ### ⭐ Open-Source Engines & Runtimes Table
 
-> *Sorted by GitHub Star Count in descending order.*
+> *Sorted by GitHub Stars_Count in descending order.*
 
-| 🛠️ Software | ⭐ Star Count | 📜 License | 💻 Primary Stack | 🎯 Core Architecture & Highlights |
+| 🛠️ Software | ⭐ Stars_Count | 📜 License | 💻 Primary Stack | 🎯 Core Architecture & Highlights |
 |:---|:---:|:---|:---|:---|
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Sustainable (Fair-code) | TypeScript / Node.js | Fair-code workflow automation with native visual node editor and full inline JavaScript/Python code nodes |
 | **[Flowise](https://github.com/FlowiseAI/Flowise)** | [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) | MIT | TypeScript / React | Drag-and-drop visual canvas to build customized LLM orchestration apps, agents, and custom function runners |
